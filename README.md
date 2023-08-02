@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate in the field of front-end web dev or android app dev<br>🌱 Just an Overenthusiastic person who has sunken inside the various fields of IT such as Web dev, App Dev, ML (Machine Learning), and Cybersecurity, and now is deeply regretting it So, **A advise to all is to focus on one field at a time**<br>💬 Ask me about anything and I'll help you to the best of my abilities.<br>⚡ Fun fact - My Interest in this field developed when me and my<br>                          team won a robotic competition when I was in  6th<br>                          Grade
+👯 I’m looking to collaborate in the field of front-end web dev or android app dev<br>🌱 Just an Overenthusiastic person who has sunken inside the various fields of IT such as Web dev, App Dev, ML (Machine Learning), and Cybersecurity, and now is deeply regretting it So, **A advice to all is to focus on one field at a time**<br>💬 Ask me about anything and I'll help you to the best of my abilities.<br>⚡ Fun fact - My Interest in this field developed when me and my team won a robotic competition when I was in  6th Grade
 
 
 ## 🌐 Socials:
