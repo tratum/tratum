@@ -26,10 +26,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=tratum&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br>
 <br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tratum&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
-<br>
 <br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=tratum&icon=6&color=5)](https://visitcount.itsvg.in)
