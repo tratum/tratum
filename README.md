@@ -1,7 +1,7 @@
 # 💫 About Me
 
 
-### **For Bhart Vasi 🇮🇳** :   ***Bhai Kuch Banate Hain naa Yaar !!!!***
+### **For BhartVasi 🇮🇳** :   ***Bhai Kuch Banate Hain naa Yaar !!!!***
 ### **For The World 🌐** :   ***Namaste ( Nam-aste ) Let's Build Some Crazy Shit Together !!!!***
 
 <br>
