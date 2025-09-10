@@ -20,18 +20,16 @@
 # 📊 GitHub Stats
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tratum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-<br>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=tratum&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br>
-<br>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=tratum&theme=dark&hide_border=false)
-<br>
-<br>
 
+<a href="https://github.com/tratum">
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api?username=tratum&show_icons=true&theme=dark&custom_title=Tratum%27s%20GitHub%20Stats&show=prs_merged&rank_icon=github" />
+</a>
+<a href="https://github.com/tratum?tab=repositories">
+  <img height=510 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tratum&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut" />
+</a>
+
+
+<!--
 # 🏆 GitHub Trophies
 <br>
 <br>
@@ -40,5 +38,4 @@
 <br>
 <br>
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=tratum&icon=6&color=5)](https://visitcount.itsvg.in)
+-->
