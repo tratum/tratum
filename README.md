@@ -22,7 +22,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 <tr>
 <td valign="top">
 
-#### Languages
+#### Languages 💻
 
 - Java *(gotta pay the bills)*
 - Python *(for building)*
@@ -33,7 +33,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 
 <td valign="top">
 
-#### Backend
+#### Backend ⚙️
 
 - FastAPI
 - Celery
@@ -43,7 +43,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 
 <td valign="top">
 
-#### Databases
+#### Databases 📖
 
 - PostgreSQL
 - Redis
@@ -55,7 +55,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 <tr>
 <td valign="top">
 
-#### Infra
+#### Infra 🛠️
 
 - Linux
 - Podman
@@ -66,7 +66,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 
 <td valign="top">
 
-#### Frontend
+#### Frontend 🎨
 
 - Svelte *(learning)*
 
