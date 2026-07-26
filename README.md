@@ -18,27 +18,71 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 
 ## Tech I Use
 
-**Languages**
-- java _(cause i want employment)_
-- python _(when i want to build)_
-- javascript _(can't escape it)_
-- zig _(currently exploring)_
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Backend**
+#### Languages
+
+- Java *(gotta pay the bills)*
+- Python *(for building)*
+- JavaScript *(can't escape it)*
+- Zig *(currently exploring)*
+
+</td>
+
+<td valign="top">
+
+#### Backend
+
 - FastAPI
 - Celery
-- SpringBoot _(learning)_
+- Spring Boot *(learning)*
 
-**Databases**
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+#### Databases
+
 - PostgreSQL
 - Redis
 - MongoDB
 
-**Infra**
+</td>
+
+<td valign="top">
+
+#### Infrastructure
+
 - Linux
 - Podman
 - Docker
 - AWS
 
-**Frontend (Ocasionally)**
-- Svelte _(learning)_
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+#### Frontend
+
+- Svelte *(learning)*
+
+</td>
+
+<td valign="top">
+
+#### Fav Tools 😍
+
+- Zed
+- Obsidian
+- Podman
+- gippity
+
+</td>
+</tr>
+</table>
