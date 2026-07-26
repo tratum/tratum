@@ -18,9 +18,9 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 
 ## Tech I Use
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 #### Languages
 
@@ -40,9 +40,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 - Spring Boot *(learning)*
 
 </td>
-</tr>
 
-<tr>
 <td valign="top">
 
 #### Databases
@@ -52,10 +50,12 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 - MongoDB
 
 </td>
+</tr>
 
+<tr>
 <td valign="top">
 
-#### Infrastructure
+#### Infra
 
 - Linux
 - Podman
@@ -63,9 +63,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 - AWS
 
 </td>
-</tr>
 
-<tr>
 <td valign="top">
 
 #### Frontend
@@ -81,7 +79,7 @@ Using Linux as a Daily Driver as i prefer simplicity and no bloatware. I prefer 
 - Zed
 - Obsidian
 - Podman
-- gippity
+- gptiiy
 
 </td>
 </tr>
